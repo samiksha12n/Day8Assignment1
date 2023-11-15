@@ -1,0 +1,7 @@
+C:\Users\Samiksha\OneDrive\Desktop\GitAssignment\Day8AssignmentRegExpression\Day8AssignmentRegExpression\obj\Debug\Day8AssignmentRegExpression.csproj.AssemblyReference.cache
+C:\Users\Samiksha\OneDrive\Desktop\GitAssignment\Day8AssignmentRegExpression\Day8AssignmentRegExpression\obj\Debug\Day8AssignmentRegExpression.csproj.CoreCompileInputs.cache
+C:\Users\Samiksha\OneDrive\Desktop\GitAssignment\Day8AssignmentRegExpression\Day8AssignmentRegExpression\bin\Debug\Day8AssignmentRegExpression.exe.config
+C:\Users\Samiksha\OneDrive\Desktop\GitAssignment\Day8AssignmentRegExpression\Day8AssignmentRegExpression\bin\Debug\Day8AssignmentRegExpression.exe
+C:\Users\Samiksha\OneDrive\Desktop\GitAssignment\Day8AssignmentRegExpression\Day8AssignmentRegExpression\bin\Debug\Day8AssignmentRegExpression.pdb
+C:\Users\Samiksha\OneDrive\Desktop\GitAssignment\Day8AssignmentRegExpression\Day8AssignmentRegExpression\obj\Debug\Day8AssignmentRegExpression.exe
+C:\Users\Samiksha\OneDrive\Desktop\GitAssignment\Day8AssignmentRegExpression\Day8AssignmentRegExpression\obj\Debug\Day8AssignmentRegExpression.pdb
